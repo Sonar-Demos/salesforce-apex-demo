@@ -1,2 +1,6 @@
 .scannerwork
 pmd.xml
+.vscode/settings.json
+.gitignore
+scanner_cmd_pr
+scanner_cmd
